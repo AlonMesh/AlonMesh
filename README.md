@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alon</h1>
-<h3 align="center">A 2nd year student in Computer Science, specializing in Data Science and Artificial Intelligence</h3>
+<h3 align="center">3rd year student in Computer Science, specializing in Data Science and Artificial Intelligence</h3>
 
 - 📫 You can get me by **Alon3400@gmail.com**
 

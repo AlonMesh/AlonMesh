@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">👨‍💻 Meet Alon!<br><br>🎓 3rd-Year Computer Science Student<br>🌐 Specializing in Data Science and Artificial Intelligence</p>
+<p align="left">👨‍💻 Meet Alon!<br><br>B.sc Computer Science graduate specializing in Data Science and Artificial Intelligence</p>
 
 ###
 
